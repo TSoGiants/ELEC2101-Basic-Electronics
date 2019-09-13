@@ -60,7 +60,7 @@ Student Outcomes broadly represent the knowledge and skills that students are ex
 Course Learning Objectives, followed by their corresponding Copernicus-level Student Outcomes, are listed below:
 
 1. Recognize basic electronics components and their common applictions. - *SO (K1)*
-2. Understand Ohm's law, Kirchoff's Laws, and other fundamental principles in practical circuits. – *SO (K2)*
+2. Understand Ohm's law, Kirchhoff's Laws, and other fundamental principles in practical circuits. – *SO (K2)*
 3. Apply circuit analysis techniques to real-world electrical engineering problems. – *SO (K3)*
 4. Be able to access and interpret electronics datasheets. – *SO (K7)*
 
@@ -74,13 +74,15 @@ Course Learning Objectives, followed by their corresponding Copernicus-level Stu
 
 ----
 ## Course Description
-An introduction to basic electricity and the fundamentals of electrical engineering. Students who have completed this course should understand the basics of electronics instrumentation and be able to perform circuit analysis on simple circuits involving passive components, semiconductor devices, and some common integrated circuits.
+An introduction to basic electricity and the fundamentals of electrical engineering. Throughout this course, you will study, analyze, and simulate a variety of practical circuits, as well as optionally construct the circuits if you have the instrumentation and components available to you. Students who have completed this course should understand the basics of electronics instrumentation and be able to perform circuit analysis on simple circuits involving passive components, semiconductor devices, and some common integrated circuits.
 
 ----
 ## Lesson Plan
 
-1. Introduction to Circuit Analysis
-2. *additional lessons will be added during course development*
+1. Simple Ohmic Circuits
+2. Kirchhoff's Laws and the Node Voltage Method
+3. The Mesh Current Method and Circuit Analysis Practice
+4. *additional lessons will be added during course development*
 
 ----
 ## Course Completion Policies
